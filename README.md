@@ -1,5 +1,4 @@
 Andrew Lang
-CS 491 - Machine Learning
 
 Instructions: 
 
