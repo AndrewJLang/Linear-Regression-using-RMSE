@@ -1,5 +1,3 @@
-Andrew Lang
-
 Instructions: 
 
 This program was compiled and ran on python 3.7.1. The libaries of matplotlib.pyplot, numpy, pandas, time and csv were used (may need to pip install).
