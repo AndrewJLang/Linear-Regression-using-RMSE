@@ -2,7 +2,7 @@ Instructions:
 
 This program was compiled and ran on python 3.7.1. The libaries of matplotlib.pyplot, numpy, pandas, time and csv were used (may need to pip install).
 
-Time and csv installation can be taken out if the user doesn't want need write data to csv file (comment out corresponding code).
+Time and csv imports can be taken out if the user doesn't want need write data to csv file (comment out corresponding code).
 
 The  code begins by reading in the data from a desired file, then initializes the learning rate to 0.1 and b1 and b0 values to 0 and 0.  These can be changed as desired, but recommended to stay as is.
 
